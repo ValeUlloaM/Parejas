@@ -3,7 +3,7 @@ import processing.core.PApplet;
 public class Cuadrado {
 
 	
-
+//Git
 	private int x,y;
 	private int diametro;
 	private int color;
